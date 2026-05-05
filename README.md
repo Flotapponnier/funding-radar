@@ -1,6 +1,4 @@
-# 📡 funding-radar
-
-> Real-time Telegram bot that detects **funding rate divergences** across 7 perp venues — Binance, Bybit, OKX, Hyperliquid, Lighter, Gate, Deribit. Powered by [Mobula](https://mobula.io)'s WebSocket. Spot cash-and-carry arbs in seconds.
+📡 Real-time Telegram bot that detects **funding rate divergences** across 7 perp venues — Binance, Bybit, OKX, Hyperliquid, Lighter, Gate, Deribit. Powered by [Mobula](https://mobula.io)'s WebSocket. Spot cash-and-carry arbs in seconds.
 
 ```
 🚨 BTC funding divergence
