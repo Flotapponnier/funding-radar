@@ -99,7 +99,7 @@ export class FundingStream extends EventEmitter {
           interval: 10,
           exchange: exchanges,
           subscriptionId: `funding-${symbol}`,
-          subscriptionTracking: true,
+          subscriptionTracking: 'true',
         },
       };
       this.ws!.send(JSON.stringify(payload));
